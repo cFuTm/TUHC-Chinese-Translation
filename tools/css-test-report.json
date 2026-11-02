@@ -1,0 +1,16 @@
+{
+  "compiler": "Sass.js 0.11.1 / LibSass 3.6.2",
+  "originalErrorReproduced": true,
+  "stylesheets": [
+    {
+      "source": "./style.css",
+      "status": 0
+    },
+    {
+      "source": "./formatted.css",
+      "status": 0
+    }
+  ],
+  "inlineDeclarations": 306,
+  "status": "passed"
+}

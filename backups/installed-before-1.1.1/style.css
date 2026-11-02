@@ -1,0 +1,20 @@
+#browserActions .uhc-zh-en-button {
+  box-sizing: border-box;
+  width: auto;
+  min-width: 48px;
+  padding: 0 8px;
+  border: 1px solid currentColor;
+  border-radius: 4px;
+  background: transparent;
+  color: inherit;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 1.4;
+  cursor: pointer;
+  white-space: nowrap;
+}
+#browserActions .uhc-zh-en-button:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 2px;
+}

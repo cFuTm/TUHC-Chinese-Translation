@@ -1,0 +1,125 @@
+.uhc-zh-en-format[data-page-id="002409"] .dotted{border:dotted 1px #000000}
+.uhc-zh-en-format[data-page-id="002410"] .dotted{border:dotted 1px #000000}
+.uhc-zh-en-format[data-page-id="003037"] #animation3037{background-color:red;font-size:50px}
+.uhc-zh-en-format[data-page-id="003037"] #animation3037{background-color:red;font-size:50px;animation-name:uhc-zh-003037-animation3037keyframes;animation-duration:0.1s;animation-iteration-count:infinite}
+@keyframes uhc-zh-003037-animation3037keyframes{0%{color:black}45{color:black}50%{color:white}95{color:white}100%{color:black}}
+@-webkit-keyframes uhc-zh-003037-animation3037keyframes{0%{color:black}45{color:black}50%{color:white}95{color:white}100%{color:black}}
+.uhc-zh-en-format[data-page-id="003167"] #animation03167-1{color:white;font-size:40px}
+.uhc-zh-en-format[data-page-id="003167"] #animation03167-2{color:white;font-size:40px}
+.uhc-zh-en-format[data-page-id="003167"] div.circle{background-color:black;border:1px solid white;border-radius:50%}
+.uhc-zh-en-format[data-page-id="003167"] div.insidecircle{background-color:white;border:1px solid white;border-radius:50%;text-align:-webkit-center;text-align:center;vertical-align:super;font-size:30px;font-weight:bold;font-family:Calibri, Arial}
+.uhc-zh-en-format[data-page-id="003229"] .animation03229{height:30px!;font-size:24px;text-align:left;margin-bottom:30%;margin-top:-38%;color:red;animation:uhc-zh-003229-animation03229keyframe 0.2s infinite;-webkit-animation:uhc-zh-003229-animation03229keyframe 0.2s infinite}
+@keyframes uhc-zh-003229-animation03229keyframe{0%{font-size:22px;padding-bottom:2px}45%{font-size:22px;padding-bottom:2px}50%{font-size:24px;padding-bottom:0px}100{font-size:24px;padding-bottom:0px}}
+@-webkit-keyframes uhc-zh-003229-animation03229keyframe{0%{font-size:22px;padding-bottom:2px}45%{font-size:22px;padding-bottom:2px}50%{font-size:24px;padding-bottom:0px}100{font-size:24px;padding-bottom:0px}}
+.uhc-zh-en-format[data-page-id="003233"] #animation03233{font-size:48px;padding:0px;margin:0px;color:red;animation:uhc-zh-003233-animation03233keyframes 0.1s infinite;-webkit-animation:uhc-zh-003233-animation03233keyframes 0.1s infinite}
+@-webkit-keyframes uhc-zh-003233-animation03233keyframes{0%{color:red}45%{color:red}50%{color:yellow}100%{color:yellow}}
+.uhc-zh-en-format[data-page-id="003307"] .animation03307{font-size:25px;font-family:STFangsong, FangSong, PMingLiU;animation:uhc-zh-003307-animation03307keyframe;animation-duration:20s;animation-iteration-count:1;-webkit-animation:uhc-zh-003307-animation03307keyframe}
+@keyframes uhc-zh-003307-animation03307keyframe{0%{color:#eeeeee}90%{color:#eeeeee}100%{color:#000000}}
+@-webkit-keyframes uhc-zh-003307-animation03307keyframe{0%{color:#eeeeee}90%{color:#eeeeee}100%{color:#000000}}
+.uhc-zh-en-format[data-page-id="003403"] .animation03405{color:red;font-size:64px;font-family:標楷體;-webkit-transform:rotate(10deg);transform:rotate(10deg);height:70px;animation:uhc-zh-003403-animation03405keyframes;animation-iteration-count:infinite;animation-duration:0.1s;-webkit-animation:uhc-zh-003403-animation03405keyframes}
+@-webkit-keyframes uhc-zh-003403-animation03405keyframes{0%{}45%{}50%{}95%{}100%{}}
+@keyframes uhc-zh-003403-animation03405keyframes{0%{}45%{}50%{}95%{}100%{}}
+.uhc-zh-en-format[data-page-id="003404"] .animation03406{color:red;font-size:64px;font-family:標楷體;-webkit-transform:rotate(10deg);transform:rotate(10deg);height:70px;animation:uhc-zh-003404-animation03406keyframes;animation-iteration-count:infinite;animation-duration:0.1s;-webkit-animation:uhc-zh-003404-animation03406keyframes}
+@-webkit-keyframes uhc-zh-003404-animation03406keyframes{0%{}45%{}50%{}95%{}100%{}}
+@keyframes uhc-zh-003404-animation03406keyframes{0%{}45%{}50%{}95%{}100%{}}
+.uhc-zh-en-format[data-page-id="003541"] .animation03541{font-size:25px;font-family:STFangsong, FangSong, PMingLiU;animation:uhc-zh-003541-animation03541keyframe;animation-duration:15s;animation-iteration-count:1;-webkit-animation:uhc-zh-003541-animation03541keyframe}
+@keyframes uhc-zh-003541-animation03541keyframe{0%{color:#eeeeee}90%{color:#eeeeee}100%{color:#000000}}
+@-webkit-keyframes uhc-zh-003541-animation03541keyframe{0%{color:#eeeeee}90%{color:#eeeeee}100%{color:#000000}}
+.uhc-zh-en-format[data-page-id="003568"] .animation03568{font-size:20px;text-align:right;font-family:STFangsong, FangSong, PMingLiU;animation:animation03541keyframe;animation-duration:32s;animation-iteration-count:1;-webkit-animation:uhc-zh-003568-animation03568keyframe}
+@keyframes uhc-zh-003568-animation03568keyframe{0%{color:#eeeeee}90%{color:#eeeeee}100%{color:#000000}}
+@-webkit-keyframes uhc-zh-003568-animation03568keyframe{0%{color:#eeeeee}90%{color:#eeeeee}100%{color:#000000}}
+.uhc-zh-en-format[data-page-id="004162"] .animation04162{height:20px;width:40px;padding:5px;margin:0 auto;background:transparent;animation:uhc-zh-004162-animation04162keyframes;animation-iteration-count:infinite;animation-duration:13.92s;-webkit-animation:uhc-zh-004162-animation04162keyframes}
+@keyframes uhc-zh-004162-animation04162keyframes{0%{font-size:0px}40.5%{font-size:0px;background:transparent}41%{color:#095a88;background-color:#095a88}60%{color:#3678fe}87%{color:#ffffff;background-color:#095aff}100%{color:#ffffff;background-color:#095aff}}
+@-webkit-keyframes uhc-zh-004162-animation04162keyframes{0%{font-size:0px}40.5%{font-size:0px;background:transparent}41%{color:#095a88;background-color:#095a88}60%{color:#3678fe}87%{color:#ffffff;background-color:#095aff}100%{color:#ffffff;background-color:#095aff}}
+.uhc-zh-en-format[data-page-id="004163"] .uhc-zh-004163-white-glow{animation:uhc-zh-004163-white-glow 0.8s infinite alternate;-webkit-animation:uhc-zh-004163-white-glow 0.8s infinite}
+@keyframes uhc-zh-004163-white-glow{0%{color:white;text-shadow:0px 0px 3px}10%{color:black;text-shadow:0px 0px black}40%{text-shadow:0px 0px black}48%{color:white;text-shadow:30px -5px 10px black}56%{text-shadow:0px 0px black}70%{color:#2fb400;text-shadow:0px 0px black}75%{text-shadow:10px 0px black}80%{color:white;text-shadow:0px 0px black}95%{color:#2fb400}100%{color:white;text-shadow:0px 0px 3px}}
+@-webkit-keyframes uhc-zh-004163-white-glow{0%{color:white;text-shadow:0px 0px 3px}10%{color:black;text-shadow:0px 0px black}40%{text-shadow:0px 0px black}48%{color:white;text-shadow:30px -5px 10px black}56%{text-shadow:0px 0px black}70%{color:#2fb400;text-shadow:0px 0px black}75%{text-shadow:10px 0px black}80%{color:white;text-shadow:0px 0px black}95%{color:#2fb400}100%{color:white;text-shadow:0px 0px 3px}}
+.uhc-zh-en-format[data-page-id="004165"] .animation04165{animation:uhc-zh-004165-animation04165keyframes;animation-iteration-count:1;animation-duration:8s;-webkit-animation:uhc-zh-004165-animation04165keyframes}
+@keyframes uhc-zh-004165-animation04165keyframes{from{color:#eeeeee}to{color:#000000}}
+@-webkit-keyframes uhc-zh-004165-animation04165keyframes{from{color:#eeeeee}to{color:#000000}}
+.uhc-zh-en-format[data-page-id="004401"] #animation04401{width:75px;margin:0 auto;padding:10px;background:#000000;color:red;animation:uhc-zh-004401-animation04401keyframes 0.1s infinite;-webkit-animation:uhc-zh-004401-animation04401keyframes 0.1s infinite}
+@-webkit-keyframes uhc-zh-004401-animation04401keyframes{0%{color:red}45%{color:red}50%{color:yellow}100%{color:yellow}}
+.uhc-zh-en-format[data-page-id="004431"] .animation04431{animation:uhc-zh-004431-animation04431keyframe 6s;animation-iteration-count:infinite;-webkit-animation:uhc-zh-004431-animation04431keyframe 6s}
+@keyframes uhc-zh-004431-animation04431keyframe{from{color:#000000}to{color:#aaaaaa}}
+@-webkit-keyframes uhc-zh-004431-animation04431keyframe{from{color:#000000}to{color:#aaaaaa}}
+.uhc-zh-en-format[data-page-id="004445"] .div04445{margin:-20px 0 0 10%}
+.uhc-zh-en-format[data-page-id="004446"] .animation04446{font-size:1.0em;animation:uhc-zh-004446-animation04446keyframe 10s;animation-iteration-count:infinite;-webkit-animation:uhc-zh-004446-animation04446keyframe 10s}
+@keyframes uhc-zh-004446-animation04446keyframe{from{color:#000000}to{color:#aaaaaa}}
+@-webkit-keyframes uhc-zh-004446-animation04446keyframe{from{color:#000000}to{color:#aaaaaa}}
+.uhc-zh-en-format[data-page-id="004453"] .animationWQCOMMAND{font-size:1.0em;animation:uhc-zh-004453-animationWQCOMMANDkeyframe 8s;animation-iteration-count:infinite;-webkit-animation:uhc-zh-004453-animationWQCOMMANDkeyframe 8s}
+@keyframes uhc-zh-004453-animationWQCOMMANDkeyframe{from{color:#000000}to{color:#aaaaaa}}
+@-webkit-keyframes uhc-zh-004453-animationWQCOMMANDkeyframe{from{color:#000000}to{color:#aaaaaa}}
+.uhc-zh-en-format[data-page-id="004458"] .animationWQCOMMAND{font-size:1.0em;animation:uhc-zh-004458-animationWQCOMMANDkeyframe 10s;animation-iteration-count:infinite;-webkit-animation:uhc-zh-004458-animationWQCOMMANDkeyframe 10s}
+@keyframes uhc-zh-004458-animationWQCOMMANDkeyframe{from{color:#000000}to{color:#aaaaaa}}
+@-webkit-keyframes uhc-zh-004458-animationWQCOMMANDkeyframe{from{color:#000000}to{color:#aaaaaa}}
+.uhc-zh-en-format[data-page-id="004459"] .animationWQCOMMAND{font-size:1.0em;animation:uhc-zh-004459-animationWQCOMMANDkeyframe 10s;animation-iteration-count:infinite;-webkit-animation:uhc-zh-004459-animationWQCOMMANDkeyframe 10s}
+@keyframes uhc-zh-004459-animationWQCOMMANDkeyframe{from{color:#000000}to{color:#aaaaaa}}
+@-webkit-keyframes uhc-zh-004459-animationWQCOMMANDkeyframe{from{color:#000000}to{color:#aaaaaa}}
+.uhc-zh-en-format[data-page-id="004465"] .Manimation04465{display:none}
+.uhc-zh-en-format[data-page-id="004493"] .animation04493{animation:uhc-zh-004493-animation04493keyframe 5s infinite;-webkit-animation:uhc-zh-004493-animation04493keyframe 5s infinite}
+@-webkit-keyframes uhc-zh-004493-animation04493keyframe{0%, 70%{color:#a10000;text-shadow:none}78%{text-shadow:1px 0 0 #a00, -1px 0 0 #a00, 0 1px 0 #a00, 0 -1px 0 #a00}85%, 92%{color:#eeee00;text-shadow:1px 0 0 #a00, -1px 0 0 #a00, 0 1px 0 #a00, 0 -1px 0 #a00}93%, 95%, 97%{color:#ffffaa}94%, 96%{color:#a10000}96%{text-shadow:1px 0 2px #a00, -1px 0 2px #a00, 0 1px 2px #a00, 0 -1px 2px #a00}98%{color:#eeee00}99%{text-shadow:none}}
+@keyframes uhc-zh-004493-animation04493keyframe{0%, 70%{color:#a10000;text-shadow:none}78%{text-shadow:1px 0 0 #a00, -1px 0 0 #a00, 0 1px 0 #a00, 0 -1px 0 #a00}85%, 92%{color:#eeee00;text-shadow:1px 0 0 #a00, -1px 0 0 #a00, 0 1px 0 #a00, 0 -1px 0 #a00}93%, 95%, 97%{color:#ffffaa}94%, 96%{color:#a10000}96%{text-shadow:1px 0 2px #a00, -1px 0 2px #a00, 0 1px 2px #a00, 0 -1px 2px #a00}98%{color:#eeee00}99%{text-shadow:none}}
+.uhc-zh-en-format[data-page-id="004510"] .animation04510{animation:uhc-zh-004510-animation04510keyframes 0.2s infinite;color:#001e82}
+@keyframes uhc-zh-004510-animation04510keyframes{0%, 10%, 90%{color:#001e82}50%{color:#003bff}}
+@-webkit-keyframes uhc-zh-004510-animation04510keyframes{0%, 10%, 90%{color:#001e82}50%{color:#003bff}}
+.uhc-zh-en-format[data-page-id="004517"] .animation04517{animation:uhc-zh-004517-animation04517keyframe 5s infinite;-webkit-animation:uhc-zh-004517-animation04517keyframe 5s infinite}
+@-webkit-keyframes uhc-zh-004517-animation04517keyframe{0%, 75%{color:#a10000;text-shadow:none}78%{text-shadow:1px 0 0 #a00, -1px 0 0 #a00, 0 1px 0 #a00, 0 -1px 0 #a00}88%, 92%{color:#eeee00;text-shadow:1px 0 0 #a00, -1px 0 0 #a00, 0 1px 0 #a00, 0 -1px 0 #a00}96%, 98%{color:#ffffaa}95%, 97%{color:#a10000}96%{text-shadow:1px 0 2px #a00, -1px 0 2px #a00, 0 1px 2px #a00, 0 -1px 2px #a00}99%{color:#eeee00;text-shadow:none}}
+@keyframes uhc-zh-004517-animation04517keyframe{0%, 75%{color:#a10000;text-shadow:none}78%{text-shadow:1px 0 0 #a00, -1px 0 0 #a00, 0 1px 0 #a00, 0 -1px 0 #a00}88%, 92%{color:#eeee00;text-shadow:1px 0 0 #a00, -1px 0 0 #a00, 0 1px 0 #a00, 0 -1px 0 #a00}96%, 98%{color:#ffffaa}95%, 97%{color:#a10000}96%{text-shadow:1px 0 2px #a00, -1px 0 2px #a00, 0 1px 2px #a00, 0 -1px 2px #a00}99%{color:#eeee00;text-shadow:none}}
+.uhc-zh-en-format[data-page-id="004524"] .animation04524{animation:uhc-zh-004524-animation04524keyframes 0.2s infinite;color:#b30000}
+@keyframes uhc-zh-004524-animation04524keyframes{0%, 10%, 90%{color:#b30000}50%{color:#f20000}}
+@-webkit-keyframes uhc-zh-004524-animation04524keyframes{0%, 10%, 90%{color:#b30000}50%{color:#f20000}}
+.uhc-zh-en-format[data-page-id="004631"] .animation04631{animation:uhc-zh-004631-animation04631keyframes 0.2s infinite;color:#001e82}
+@keyframes uhc-zh-004631-animation04631keyframes{0%, 10%, 90%, 100%{color:#00d246}50%{color:#00ed4f}}
+@-webkit-keyframes uhc-zh-004631-animation04631keyframes{0%, 10%, 90%, 100%{color:#00d246}50%{color:#00ed4f}}
+.uhc-zh-en-format[data-page-id="004729"] .animation04729{animation:uhc-zh-004729-animation04729keyframes 0.2s infinite;font-size:3.3em;text-shadow:3px 3px;line-height:1;width:auto;margin-top:-30px}
+@keyframes uhc-zh-004729-animation04729keyframes{3%, 47%, 100%{color:#ff0000;text-shadow:3px 3px #fff300}0%, 50%, 97%{color:#fff300;text-shadow:3px 3px #ff0000}}
+@-webkit-keyframes uhc-zh-004729-animation04729keyframes{3%, 47%, 100%{color:#ff0000;text-shadow:3px 3px #fff300}0%, 50%, 97%{color:#fff300;text-shadow:3px 3px #ff0000}}
+.uhc-zh-en-format[data-page-id="004941"] .animation04941{animation:uhc-zh-004941-animation04941keyframes 0.2s infinite;color:#001e82}
+@keyframes uhc-zh-004941-animation04941keyframes{0%, 10%, 90%{color:#00ed4f}50%{color:#00d246}}
+@-webkit-keyframes uhc-zh-004941-animation04941keyframes{0%, 10%, 90%{color:#00ed4f}50%{}}
+.uhc-zh-en-format[data-page-id="004943"] .animation04943{animation:uhc-zh-004943-animation04943keyframes 0.2s infinite;color:#001e82}
+@keyframes uhc-zh-004943-animation04943keyframes{0%, 10%, 90%{color:#00ed4f}50%{color:#00d246}}
+@-webkit-keyframes uhc-zh-004943-animation04943keyframes{0%, 10%, 90%{color:#00ed4f}50%{}}
+.uhc-zh-en-format[data-page-id="005016"] .animation05016{animation:uhc-zh-005016-animation05016keyframe 9s;animation-iteration-count:infinite;-webkit-animation:uhc-zh-005016-animation05016keyframe 9s}
+@keyframes uhc-zh-005016-animation05016keyframe{from{color:#000000}to{color:#aaaaaa}}
+@-webkit-keyframes uhc-zh-005016-animation05016keyframe{from{color:#000000}to{color:#aaaaaa}}
+.uhc-zh-en-format[data-page-id="005022"] div.vriskaNoM{display:none}
+.uhc-zh-en-format[data-page-id="005024"] .effect03121{padding:0;margin:0;font-size:2.3em;background:#004282;background:-webkit-linear-gradient(#003272 0, #914000 80%);background:-o-linear-gradient(#003272 0, #914000 80%);background:-moz-linear-gradient(#003272 0, #914000 80%);background:linear-gradient(#003272 0, #914000 80%);-webkit-background-clip:text;color:rgba(0,0,0,0)}
+.uhc-zh-en-format[data-page-id="005117"] .uhc-zh-005117-white-glow{animation:uhc-zh-005117-white-glow 1s infinite alternate;-webkit-animation:uhc-zh-005117-white-glow 1s infinite}
+@keyframes uhc-zh-005117-white-glow{0%{color:white;text-shadow:0px 0px 3px}10%{color:black;text-shadow:0px 0px black}20%{color:#2fb400;text-shadow:0px 0 5px black}25%{text-shadow:15px 0 5px black}30%{text-shadow:0px 0px black}40%{text-shadow:0px 0px black}45%{color:black;text-shadow:0px -13px black}50%{text-shadow:0px 0px black}55%{color:#2fb400}60%{text-shadow:0px 0px black}65%{text-shadow:0px 13px black}70%{color:black;text-shadow:0px 0px black}75%{color:#2fb400}90%{color:#2fb400}100%{color:white;text-shadow:0px 0px 3px}}
+@-webkit-keyframes uhc-zh-005117-white-glow{0%{color:white;text-shadow:0px 0px 3px}10%{color:black;text-shadow:0px 0px black}20%{color:#2fb400;text-shadow:0px 0 5px black}25%{text-shadow:15px 0 5px black}30%{text-shadow:0px 0px black}40%{text-shadow:0px 0px black}45%{color:black;text-shadow:0px -13px black}50%{text-shadow:0px 0px black}55%{color:#2fb400}60%{text-shadow:0px 0px black}65%{text-shadow:0px 13px black}70%{color:black;text-shadow:0px 0px black}75%{color:#2fb400}90%{color:#2fb400}100%{color:white;text-shadow:0px 0px 3px}}
+.uhc-zh-en-format[data-page-id="005284"] .animation05282{font-size:48px;font-weight:bolder;font-family:"Microsoft Jhenghei";padding:0px;margin:0px;animation:uhc-zh-005284-animation05282keyframes 0.15s infinite;-webkit-animation:uhc-zh-005284-animation05282keyframes 0.15s infinite}
+@keyframes uhc-zh-005284-animation05282keyframes{3%, 47%, 100%{color:#008141;text-shadow:2px 2px #a15000}0%, 50%, 97%{color:#a15000;text-shadow:2px 2px #008141}}
+@-webkit-keyframes uhc-zh-005284-animation05282keyframes{3%, 47%, 100%{color:#008141;text-shadow:2px 2px #a15000}0%, 50%, 97%{color:#a15000;text-shadow:2px 2px #008141}}
+.uhc-zh-en-format[data-page-id="005291"] .effect05291{font-size:320px}
+.uhc-zh-en-format[data-page-id="005528"] .animation05528{animation:uhc-zh-005528-animation05528keyframes 0.2s infinite;color:#001e82}
+@keyframes uhc-zh-005528-animation05528keyframes{0%, 10%, 90%{color:#00ed4f}50%{color:#00d246}}
+@-webkit-keyframes uhc-zh-005528-animation05528keyframes{0%, 10%, 90%{color:#00ed4f}50%{}}
+.uhc-zh-en-format[data-page-id="005535"] .animation05535{animation:uhc-zh-005535-animation05535keyframes;animation-iteration-count:1;animation-duration:12s;-webkit-animation:uhc-zh-005535-animation05535keyframes}
+@keyframes uhc-zh-005535-animation05535keyframes{0%, 60%{color:#eeeeee}100%{color:#000000}}
+@-webkit-keyframes uhc-zh-005535-animation05535keyframes{0%, 60%{color:#eeeeee}100%{color:#000000}}
+.uhc-zh-en-format[data-page-id="005614"] .cmnd-05614{border:solid #fffd05 2px;background:black;color:white}
+.uhc-zh-en-format[data-page-id="005625"] #music-list-05625{padding:0 5px;margin:5px 0 0 auto;border:solid #fffd05 2px;width:30%;min-width:200px;text-align:left;background:black;color:white}
+.uhc-zh-en-format[data-page-id="005770"] .uhc-zh-005770-white-glow{animation:uhc-zh-005770-white-glow 0.6s infinite alternate;-webkit-animation:uhc-zh-005770-white-glow 0.6s infinite}
+@keyframes uhc-zh-005770-white-glow{0%{color:white;text-shadow:0px 0px 3px}10%{color:black;text-shadow:0px 0px black}20%{color:#2fb400;text-shadow:0px 0 5px black}25%{text-shadow:15px 0 5px black}30%{text-shadow:0px 0px black}40%{text-shadow:0px 0px black}45%{color:black;text-shadow:0px -13px black}50%{text-shadow:0px 0px black}55%{color:#2fb400}60%{text-shadow:0px 0px black}65%{text-shadow:0px 13px black}70%{color:black;text-shadow:0px 0px black}75%{color:#2fb400}90%{color:#2fb400}100%{color:white;text-shadow:0px 0px 3px}}
+@-webkit-keyframes uhc-zh-005770-white-glow{0%{color:white;text-shadow:0px 0px 3px}10%{color:black;text-shadow:0px 0px black}20%{color:#2fb400;text-shadow:0px 0 5px black}25%{text-shadow:15px 0 5px black}30%{text-shadow:0px 0px black}40%{text-shadow:0px 0px black}45%{color:black;text-shadow:0px -13px black}50%{text-shadow:0px 0px black}55%{color:#2fb400}60%{text-shadow:0px 0px black}65%{text-shadow:0px 13px black}70%{color:black;text-shadow:0px 0px black}75%{color:#2fb400}90%{color:#2fb400}100%{color:white;text-shadow:0px 0px 3px}}
+.uhc-zh-en-format[data-page-id="005886"] #gamzee b{color:#2b0057}
+.uhc-zh-en-format[data-page-id="005927"] #gamzee b{color:#2b0057}
+.uhc-zh-en-format[data-page-id="005928"] #gamzee b{color:#2b0057}
+.uhc-zh-en-format[data-page-id="005929"] #gamzee b{color:#2b0057}
+.uhc-zh-en-format[data-page-id="005931"] #gamzee b{color:#2b0057}
+.uhc-zh-en-format[data-page-id="006345"] div.roxy-bomb-terminal{background-color:#000000;height:100px;font-size:100%;font-weight:bold;font-family:Courier, Courier New, monospace;text-align:left;line-height:1.4;font-size:1em;color:#ff6ff2;padding:10px;margin:0 15%}
+.uhc-zh-en-format[data-page-id="006346"] div.roxy-bomb-terminal{background-color:#000000;height:220px;font-size:200%;font-weight:bold;font-family:Courier, Courier New, monospace;text-align:left;line-height:1.4;color:#ff6ff2;padding:10px;margin:0 15%}
+.uhc-zh-en-format[data-page-id="006347"] div.roxy-bomb-terminal{background-color:#000000;height:250px;font-size:200%;font-weight:bold;font-family:Courier, Courier New, monospace;line-height:1.4;text-align:left;color:#ff6ff2;padding:10px}
+.uhc-zh-en-format[data-page-id="006348"] div.roxy-bomb-terminal-overflow-wrapper{height:420px;margin:0;padding:0;overflow:hidden}
+.uhc-zh-en-format[data-page-id="006348"] div.roxy-bomb-terminal{background-color:#000000;height:auto;font-size:800%;font-weight:bold;font-family:Courier, Courier New, monospace;line-height:1.4;text-align:left;white-space:nowrap;overflow:hidden;color:#ff6ff2;margin-top:-84px}
+.uhc-zh-en-format[data-page-id="006493"] .table06493 tbody td{text-align:left;padding-top:10px}
+.uhc-zh-en-format[data-page-id="007256"] .animation07256{color:#c666f0;opacity:0.0;font-weight:bold;font-family:"DFKai-SB";animation:uhc-zh-007256-animation07256keyframes 5s}
+@keyframes uhc-zh-007256-animation07256keyframes{0%, 33%{opacity:0.0}40%{opacity:1.0}47%, 100%{opacity:0.0}}
+.uhc-zh-en-format[data-page-id="007258"] #roll div{margin:0 -5px 0 0;padding:0 0 0 5px;text-align:left}
+.uhc-zh-en-format[data-page-id="007477"] div#wizardyherberttexts{width:85%;line-height:1.2;margin:10px auto;text-align:left;font-size:1.125em;font-family:DFKai-SB, SimKai}
+.uhc-zh-en-format[data-page-id="007477"] span#wizardyherbertbigletters{line-height:1;font-weight:bold;font-size:1.2em}
+.uhc-zh-en-format[data-page-id="007478"] span#wizardyherbertbigletters{line-height:1;font-weight:bold;font-size:1.5em;font-family:DFKai-SB, SimKai}
+.uhc-zh-en-format[data-page-id="007623"] div.animation07423{padding:0;margin:0;font-family:"Microsoft JhengHei", "Microsoft YaHei", monospace;font-size:5em;font-style:oblique;font-weight:bold;color:#ffdbac;-webkit-text-stroke-width:5px;-webkit-text-stroke-color:transparent;-webkit-background-clip:text;background-size:100% 240%;background-image:-webkit-repeating-linear-gradient(red, greenyellow 5%, aqua 10%, blue 15%, fuchsia 20%, red 25%);animation:uhc-zh-007623-animation07423keyframes 1.0s infinite steps(8, start);-webkit-animation:uhc-zh-007623-animation07423keyframes 1.0s infinite steps(8, end)}
+@keyframes uhc-zh-007623-animation07423keyframes{0%{background-position:50% 0%}50%{background-position:50% 40%}100%{background-position:50% 80%}}
+@-webkit-keyframes uhc-zh-007623-animation07423keyframes{0%{background-position:50% 0%}50%{background-position:50% 40%}100%{background-position:50% 80%}}

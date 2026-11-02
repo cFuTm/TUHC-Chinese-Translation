@@ -1,0 +1,13 @@
+{
+  "version": "1.1.1",
+  "installedDirectory": "F:\\Et Cetera\\Homestuck\\unofficial-homestuck-collection\\Asset_Pack\\mods\\uhc-zh-en",
+  "backupDirectory": "F:\\Et Cetera\\Homestuck\\locolization\\mod\\backups\\installed-before-1.1.1",
+  "files": {
+    "mod.js": "d2b991c8ab9ff96372d7cd06a460d4057b1ee0a26e193ab73e2436a7ebf5088c",
+    "style.css": "2e3484ed660fde15a198023b926422a01b67ec8b904f10c2c10c55928f188ea6",
+    "formatted.css": "cacd9d3e907a5d659585af1912ba1f69fd11971f1b7b46016644e97f6d943acf",
+    "translations.json": "d3c70ac08e113f442ddb6a795865f78c6d6a7b7905ec3508ead7c5b2aa24ef96",
+    "build-report.json": "8cbff3caa571130f084a3c71f98b75137a0df04845a85dbaeb2e924aeb29125c",
+    "README.md": "7abd67cd09889ed9224179237fd70ffa377a5d4d28b5e36a49fd1e7b254e40ec"
+  }
+}

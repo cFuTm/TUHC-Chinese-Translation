@@ -1,0 +1,2565 @@
+[
+  {
+    "id": "001942",
+    "from": "http://komica.dbfoxtw.me/hstwproject/wp-content/uploads/2013/10/1942.gif",
+    "to": null,
+    "reason": "extra translation image; original page media remains rendered by UHC"
+  },
+  {
+    "id": "001969",
+    "from": "https://docs.google.com/uc?authuser=0&id=0BxPjcJhGLjJFV0hRNDVSMmtIazg&export=download",
+    "to": null,
+    "reason": "extra translation image; original page media remains rendered by UHC"
+  },
+  {
+    "id": "002016",
+    "from": "http://komica.dbfoxtw.me/hstwproject/wp-content/uploads/2013/11/2016.jpg",
+    "to": null,
+    "reason": "extra translation image; original page media remains rendered by UHC"
+  },
+  {
+    "id": "002058",
+    "from": "http://komica.dbfoxtw.me/hstwproject/wp-content/uploads/2013/11/2058.jpg",
+    "to": null,
+    "reason": "extra translation image; original page media remains rendered by UHC"
+  },
+  {
+    "id": "002167",
+    "from": "http://komica.dbfoxtw.me/hstwproject/wp-content/uploads/2014/02/2167.jpg",
+    "to": null,
+    "reason": "extra translation image; original page media remains rendered by UHC"
+  },
+  {
+    "id": "002410",
+    "from": "http://tinyurl.com/0413sprite",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/walkthrough/screencaps/01.jpg"
+  },
+  {
+    "id": "002410",
+    "from": "http://tinyurl.com/0413power",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/walkthrough/screencaps/02.jpg"
+  },
+  {
+    "id": "002410",
+    "from": "http://tinyurl.com/0413internet",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/walkthrough/screencaps/03.jpg"
+  },
+  {
+    "id": "002410",
+    "from": "http://tinyurl.com/0413build",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/walkthrough/screencaps/04.jpg"
+  },
+  {
+    "id": "002410",
+    "from": "http://tinyurl.com/0413prototype",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/walkthrough/screencaps/05.jpg"
+  },
+  {
+    "id": "002410",
+    "from": "http://tinyurl.com/0413disconnect",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/walkthrough/screencaps/06.jpg"
+  },
+  {
+    "id": "002410",
+    "from": "http://tinyurl.com/0413nanna",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/walkthrough/screencaps/07.jpg"
+  },
+  {
+    "id": "002410",
+    "from": "http://tinyurl.com/0413weirdo",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/walkthrough/screencaps/08.jpg"
+  },
+  {
+    "id": "002410",
+    "from": "http://tinyurl.com/0413designix",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/walkthrough/screencaps/09.jpg"
+  },
+  {
+    "id": "002410",
+    "from": "http://tinyurl.com/0413grist",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/walkthrough/screencaps/10.jpg"
+  },
+  {
+    "id": "002410",
+    "from": "http://tinyurl.com/0413up",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/walkthrough/screencaps/11.jpg"
+  },
+  {
+    "id": "002410",
+    "from": "http://tinyurl.com/0413steed",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/walkthrough/screencaps/12.jpg"
+  },
+  {
+    "id": "002410",
+    "from": "http://tinyurl.com/0413barbasolbandit",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/walkthrough/screencaps/13.jpg"
+  },
+  {
+    "id": "002410",
+    "from": "http://tinyurl.com/0413really",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/walkthrough/screencaps/14.jpg"
+  },
+  {
+    "id": "002410",
+    "from": "http://tinyurl.com/0413hmm",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/walkthrough/screencaps/15.jpg"
+  },
+  {
+    "id": "002437",
+    "from": "assets://storyfiles/hs2/scraps/pc_rancorous.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/pc_rancorous.gif"
+  },
+  {
+    "id": "002563",
+    "from": "assets://storyfiles/hs2/scraps/wheredoingitman.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/wheredoingitman.gif"
+  },
+  {
+    "id": "002563",
+    "from": "assets://storyfiles/hs2/scraps/whereMAKINGTHISHAPEN.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/whereMAKINGTHISHAPEN.gif"
+  },
+  {
+    "id": "002659",
+    "from": "assets://storyfiles/hs2/00759_4under.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/00759_4under.gif"
+  },
+  {
+    "id": "002700",
+    "from": "assets://storyfiles/hs2/scraps/poll_jadeshirt.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/poll_jadeshirt.gif"
+  },
+  {
+    "id": "002745",
+    "from": "https://zhhomestuck.github.io/images/00845_2_ct.gif",
+    "to": null,
+    "reason": "extra translation image; original page media remains rendered by UHC"
+  },
+  {
+    "id": "002815",
+    "from": "assets://storyfiles/hs2/scraps/andtherehegoes.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/andtherehegoes.gif"
+  },
+  {
+    "id": "002922",
+    "from": "http://tinyurl.com/O413nanna",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/walkthrough/screencaps/7.jpg"
+  },
+  {
+    "id": "002922",
+    "from": "http://tinyurl.com/O413weirdo",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/walkthrough/screencaps/8.jpg"
+  },
+  {
+    "id": "003023",
+    "from": "assets://storyfiles/hs2/scraps/distaction.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/distaction.gif"
+  },
+  {
+    "id": "003024",
+    "from": "assets://storyfiles/hs2/scraps/HAVEthecargo.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/HAVEthecargo.gif"
+  },
+  {
+    "id": "003028",
+    "from": "assets://storyfiles/hs2/scraps/mail.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/mail.gif"
+  },
+  {
+    "id": "003048",
+    "from": "assets://storyfiles/hs2/scraps/pccool.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/pccool.gif"
+  },
+  {
+    "id": "003184",
+    "from": "assets://storyfiles/hs2/scraps/pccool.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/pccool.gif"
+  },
+  {
+    "id": "003210",
+    "from": "assets://storyfiles/hs2/scraps/deliriousbiznasty.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/deliriousbiznasty.gif"
+  },
+  {
+    "id": "003232",
+    "from": "assets://storyfiles/hs2/scraps/pricesandvaules.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/pricesandvaules.gif"
+  },
+  {
+    "id": "003249",
+    "from": "assets://storyfiles/hs2/scraps/turnways.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/turnways.gif"
+  },
+  {
+    "id": "003272",
+    "from": "assets://storyfiles/hs2/scraps/poll_jademodus.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/poll_jademodus.gif"
+  },
+  {
+    "id": "003293",
+    "from": "http://bit.ly/d7kXrQ",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/dreambotlog/davesmeteor.jpg"
+  },
+  {
+    "id": "003293",
+    "from": "http://www.mspaintadventures.com/sweetbroandhellajeff/?cid=010.jpg",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/dreambotlog/davesmeteor.jpg"
+  },
+  {
+    "id": "003404",
+    "from": "assets://storyfiles/hs2/scraps/EGG!.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/EGG!.gif"
+  },
+  {
+    "id": "003495",
+    "from": "http://tinyurl.com/daveshirt",
+    "to": "/archive/external/mspa-record.gif"
+  },
+  {
+    "id": "003542",
+    "from": "assets://storyfiles/hs2/scraps/calhead.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/calhead.gif"
+  },
+  {
+    "id": "003557",
+    "from": "http://tinyurl.com/1STH1SYOUD4V3",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/humancaptainplanet.jpg"
+  },
+  {
+    "id": "003557",
+    "from": "http://tinyurl.com/1T1SYOU1SNT1T",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/humancaptainplanetisdave!.jpg"
+  },
+  {
+    "id": "003574",
+    "from": "assets://storyfiles/hs2/waywardvagabond/windsdownsideways/04.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/waywardvagabond/windsdownsideways/04.gif"
+  },
+  {
+    "id": "003574",
+    "from": "assets://storyfiles/hs2/waywardvagabond/windsdownsideways/03.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/waywardvagabond/windsdownsideways/03.gif"
+  },
+  {
+    "id": "003574",
+    "from": "assets://storyfiles/hs2/waywardvagabond/windsdownsideways/07.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/waywardvagabond/windsdownsideways/07.gif"
+  },
+  {
+    "id": "003574",
+    "from": "assets://storyfiles/hs2/waywardvagabond/asentrywakens/05.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/waywardvagabond/windsdownsideways/01.gif"
+  },
+  {
+    "id": "003574",
+    "from": "assets://storyfiles/hs2/waywardvagabond/windsdownsideways/01.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/waywardvagabond/asentrywakens/05.gif"
+  },
+  {
+    "id": "003574",
+    "from": "https://docs.google.com/uc?id=0B5MH0O6SwRMSa0QxdjBHTHc1OFU",
+    "to": "/archive/external/Incipisphere-5.png"
+  },
+  {
+    "id": "003574",
+    "from": "http://www.blackfives.com/blog_pics/carnegie_study.jpg",
+    "to": "/archive/external/carnegie_study.jpg"
+  },
+  {
+    "id": "003702",
+    "from": "assets://storyfiles/hs2/scraps/shitletsbesanta.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/shitletsbesanta.gif"
+  },
+  {
+    "id": "003727",
+    "from": "assets://storyfiles/hs2/scraps/comeon.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/comeon.gif"
+  },
+  {
+    "id": "003746",
+    "from": "https://zhhomestuck.github.io/images/01846_3_ct.gif",
+    "to": null,
+    "reason": "extra translation image; original page media remains rendered by UHC"
+  },
+  {
+    "id": "003835",
+    "from": "http://tinyurl.com/PUR3D4V3",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/humanchildisdave.jpg"
+  },
+  {
+    "id": "003835",
+    "from": "http://tinyurl.com/TH1S1SSOOOOD4V3",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/kidstrider!!!.jpg"
+  },
+  {
+    "id": "003839",
+    "from": "http://tinyurl.com/D4V34NDBRO43V3R",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/pinballbros.jpg"
+  },
+  {
+    "id": "003970",
+    "from": "assets://storyfiles/hs2/scraps/showdown.mp3",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/showdown.mp3"
+  },
+  {
+    "id": "003972",
+    "from": "assets://storyfiles/hs2/scraps/trollcool.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/trollcool.gif"
+  },
+  {
+    "id": "004153",
+    "from": "assets://storyfiles/hs2/scraps/o.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/o.gif"
+  },
+  {
+    "id": "004163",
+    "from": "assets://storyfiles/hs2/scraps/shehaswhat.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/shehaswhat.gif"
+  },
+  {
+    "id": "004355",
+    "from": "assets://storyfiles/hs2/scraps/psi.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/psi.gif"
+  },
+  {
+    "id": "004355",
+    "from": "assets://storyfiles/hs2/scraps/psi.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/psi.gif"
+  },
+  {
+    "id": "004477",
+    "from": "https://zhhomestuck.github.io/images/02576_ct.gif",
+    "to": null,
+    "reason": "extra translation image; original page media remains rendered by UHC"
+  },
+  {
+    "id": "004477",
+    "from": "assets://storyfiles/hs2/scraps/puase.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/puase.gif"
+  },
+  {
+    "id": "004555",
+    "from": "assets://storyfiles/hs2/scraps/yeah!!!!!!!!.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/yeah!!!!!!!!.gif"
+  },
+  {
+    "id": "004572",
+    "from": "http://tinyurl.com/hullohumminburr",
+    "to": "/archive/external/howdoilive.mp4"
+  },
+  {
+    "id": "004642",
+    "from": "http://tinyurl.com/T34CHM3D4V3",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/T34CHM3TH31NT3RN3TD4V3.jpg"
+  },
+  {
+    "id": "004642",
+    "from": "http://tinyurl.com/ohy34h",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/ohy34h.jpg"
+  },
+  {
+    "id": "004659",
+    "from": "assets://storyfiles/hs2/scraps/trollcool.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/trollcool.gif"
+  },
+  {
+    "id": "004659",
+    "from": "assets://storyfiles/hs2/scraps/trollcool.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/trollcool.gif"
+  },
+  {
+    "id": "004672",
+    "from": "http://tinyurl.com/CDandSL",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/cooldudeandstonerlou.gif"
+  },
+  {
+    "id": "004672",
+    "from": "http://tinyurl.com/FORB3NST1LL3R",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/FORB3NST1LL3R.jpg"
+  },
+  {
+    "id": "004675",
+    "from": "http://tinyurl.com/SPOTONSTR1D3R",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/SPOTONSTR1D3R.jpg"
+  },
+  {
+    "id": "004679",
+    "from": "http://tinyurl.com/OMGD4NC3P4RTY",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/D4NC3P4RTYON3.gif"
+  },
+  {
+    "id": "004680",
+    "from": "http://tinyurl.com/T34CHM3YOURMOV3SD4V3",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/D4NC3P4RTYTWO.gif"
+  },
+  {
+    "id": "004681",
+    "from": "http://tinyurl.com/TH3FLO4R-1SONF1R3",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/D4NC3P4RTYTHR33.gif"
+  },
+  {
+    "id": "004682",
+    "from": "http://tinyurl.com/H3LLFUCK1NGY3S",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/D4NC3P4RTYFOUR.gif"
+  },
+  {
+    "id": "004688",
+    "from": "assets://storyfiles/hs2/scraps/FRUITYRUMPUSASSHOLEFACTORY.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/FRUITYRUMPUSASSHOLEFACTORY.gif"
+  },
+  {
+    "id": "004689",
+    "from": "assets://storyfiles/hs2/scraps/FRUITYRUMPUSASSHOLEFACTORY.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/FRUITYRUMPUSASSHOLEFACTORY.gif"
+  },
+  {
+    "id": "004690",
+    "from": "assets://storyfiles/hs2/scraps/MATINGDIAGRAMFORMORONS.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/MATINGDIAGRAMFORMORONS.gif"
+  },
+  {
+    "id": "004697",
+    "from": "assets://storyfiles/hs2/scraps/sweetcatchblue.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/sweetcatchblue.gif"
+  },
+  {
+    "id": "004722",
+    "from": "assets://storyfiles/hs2/scraps/BlAsPhEmY.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/BlAsPhEmY.gif"
+  },
+  {
+    "id": "004733",
+    "from": "http://tinyurl.com/D4V3XD4V3",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/D4V3XD4V3.jpg"
+  },
+  {
+    "id": "004750",
+    "from": "assets://storyfiles/hs2/scraps/psifef.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/psifef.gif"
+  },
+  {
+    "id": "004751",
+    "from": "assets://storyfiles/hs2/scraps/FRUITYRUMPUSASSHOLEFACTORY.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/FRUITYRUMPUSASSHOLEFACTORY.gif"
+  },
+  {
+    "id": "004907",
+    "from": "assets://storyfiles/hs2/scraps/becspeak.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/becspeak.gif"
+  },
+  {
+    "id": "004907",
+    "from": "assets://storyfiles/hs2/scraps/becspeak.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/becspeak.gif"
+  },
+  {
+    "id": "004907",
+    "from": "assets://storyfiles/hs2/scraps/becspeak.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/becspeak.gif"
+  },
+  {
+    "id": "004907",
+    "from": "assets://storyfiles/hs2/scraps/becspeak.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/becspeak.gif"
+  },
+  {
+    "id": "004907",
+    "from": "assets://storyfiles/hs2/scraps/becspeak.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/becspeak.gif"
+  },
+  {
+    "id": "004907",
+    "from": "assets://storyfiles/hs2/scraps/becspeak.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/becspeak.gif"
+  },
+  {
+    "id": "004907",
+    "from": "assets://storyfiles/hs2/scraps/becspeak.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/becspeak.gif"
+  },
+  {
+    "id": "004907",
+    "from": "assets://storyfiles/hs2/scraps/becspeak.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/becspeak.gif"
+  },
+  {
+    "id": "005117",
+    "from": "assets://storyfiles/hs2/scraps/whatdidyoudo.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/whatdidyoudo.gif"
+  },
+  {
+    "id": "005127",
+    "from": "assets://storyfiles/hs2/scraps/o.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/o.gif"
+  },
+  {
+    "id": "005147",
+    "from": "assets://storyfiles/hs2/scraps/jadespritehead.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/jadespritehead.gif"
+  },
+  {
+    "id": "005284",
+    "from": "assets://storyfiles/hs2/scraps/corpsesmooch.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/corpsesmooch.gif"
+  },
+  {
+    "id": "005314",
+    "from": "assets://storyfiles/hs2/scraps/LIFDOFF.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/LIFDOFF.gif"
+  },
+  {
+    "id": "005492",
+    "from": "assets://storyfiles/hs2/scraps/trollc00l.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/trollc00l.gif"
+  },
+  {
+    "id": "005530",
+    "from": "assets://storyfiles/hs2/scraps/o.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/o.gif"
+  },
+  {
+    "id": "005919",
+    "from": "assets://storyfiles/hs2/scraps/nextbowl3.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/nextbowl4.gif"
+  },
+  {
+    "id": "005981",
+    "from": "assets://storyfiles/hs2/scraps/olliesouty.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/olliesouty.gif"
+  },
+  {
+    "id": "006354",
+    "from": "assets://storyfiles/hs2/scraps/pcstrider.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/pcstrider.gif"
+  },
+  {
+    "id": "006465",
+    "from": "http://tinyurl.com/dirkisthisyoU",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/dirkisthisyoU.gif"
+  },
+  {
+    "id": "006637",
+    "from": "assets://storyfiles/hs2/scraps/musicnote.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/musicnote.png"
+  },
+  {
+    "id": "006637",
+    "from": "assets://storyfiles/hs2/scraps/musicnote.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/musicnote.png"
+  },
+  {
+    "id": "006637",
+    "from": "assets://storyfiles/hs2/scraps/musicnote.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/musicnote.png"
+  },
+  {
+    "id": "006637",
+    "from": "assets://storyfiles/hs2/scraps/musicnote.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/musicnote.png"
+  },
+  {
+    "id": "006637",
+    "from": "assets://storyfiles/hs2/scraps/musicnote.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/musicnote.png"
+  },
+  {
+    "id": "006724",
+    "from": "assets://storyfiles/hs2/scraps/A6A3walkthrough.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/A6A3walkthrough.gif"
+  },
+  {
+    "id": "006740",
+    "from": "assets://storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "006740",
+    "from": "assets://storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "006740",
+    "from": "assets://storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "006740",
+    "from": "assets://storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "006866",
+    "from": "http://goo.gl/BPSnY",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/smuut1.gif"
+  },
+  {
+    "id": "006866",
+    "from": "http://goo.gl/cTQZ6",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/smuut2.gif"
+  },
+  {
+    "id": "006866",
+    "from": "http://goo.gl/WQ0CU",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/smuut3.gif"
+  },
+  {
+    "id": "006866",
+    "from": "http://goo.gl/lvLpU",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/smuut4.gif"
+  },
+  {
+    "id": "006867",
+    "from": "http://goo.gl/rgfyW",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/smuut5.gif"
+  },
+  {
+    "id": "006867",
+    "from": "http://goo.gl/s0ILH",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/smuut6.gif"
+  },
+  {
+    "id": "006867",
+    "from": "http://goo.gl/58e9O",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/smuut7.gif"
+  },
+  {
+    "id": "006867",
+    "from": "http://goo.gl/mSTQk",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/smuut8.gif"
+  },
+  {
+    "id": "006867",
+    "from": "http://goo.gl/GD2nO",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/smuut9.gif"
+  },
+  {
+    "id": "006867",
+    "from": "http://goo.gl/FIYFS",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/smuut10.gif"
+  },
+  {
+    "id": "006867",
+    "from": "http://goo.gl/i2O11",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/smuut11.gif"
+  },
+  {
+    "id": "006867",
+    "from": "http://goo.gl/itJga",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/smuut12.gif"
+  },
+  {
+    "id": "006869",
+    "from": "http://goo.gl/HmRpl",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/smuut13.gif"
+  },
+  {
+    "id": "006869",
+    "from": "http://goo.gl/WrdJG",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/smuut14.gif"
+  },
+  {
+    "id": "006869",
+    "from": "http://goo.gl/Ay8mv",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/smuut15.gif"
+  },
+  {
+    "id": "006869",
+    "from": "http://goo.gl/1Ha6R",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/smuut16.gif"
+  },
+  {
+    "id": "006869",
+    "from": "http://goo.gl/GLNHH",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/smuut17.gif"
+  },
+  {
+    "id": "006869",
+    "from": "http://goo.gl/XE2fl",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/smuut18.gif"
+  },
+  {
+    "id": "006869",
+    "from": "http://goo.gl/2HsXl",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/smuut19.gif"
+  },
+  {
+    "id": "006869",
+    "from": "http://goo.gl/vvYxn",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/smuut20.gif"
+  },
+  {
+    "id": "006869",
+    "from": "http://goo.gl/vsGuq",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/smuut21.gif"
+  },
+  {
+    "id": "006869",
+    "from": "http://goo.gl/v33Yj",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/smuut22.gif"
+  },
+  {
+    "id": "006869",
+    "from": "http://goo.gl/ObEuT",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/smuut23.gif"
+  },
+  {
+    "id": "006869",
+    "from": "http://goo.gl/gz1iH",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/smuut24.gif"
+  },
+  {
+    "id": "006870",
+    "from": "http://goo.gl/zJgPI",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/smuut25.gif"
+  },
+  {
+    "id": "006870",
+    "from": "http://goo.gl/8WOPP",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/smuut26.gif"
+  },
+  {
+    "id": "006958",
+    "from": "assets://storyfiles/hs2/scraps/shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/shades.png"
+  },
+  {
+    "id": "006975",
+    "from": "http://tinyurl.com/DIRKTHISISuS",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/DIRKTHISISuS.gif"
+  },
+  {
+    "id": "006990",
+    "from": "http://tinyurl.com/roxyisthisyoU",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/roxyisthisyoU.gif"
+  },
+  {
+    "id": "007144",
+    "from": "assets://storyfiles/hs2/scraps/shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/shades.png"
+  },
+  {
+    "id": "007145",
+    "from": "assets://storyfiles/hs2/scraps/shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/shades.png"
+  },
+  {
+    "id": "007145",
+    "from": "assets://storyfiles/hs2/scraps/shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/shades.png"
+  },
+  {
+    "id": "007145",
+    "from": "assets://storyfiles/hs2/scraps/shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/shades.png"
+  },
+  {
+    "id": "007145",
+    "from": "assets://storyfiles/hs2/scraps/shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/shades.png"
+  },
+  {
+    "id": "007145",
+    "from": "assets://storyfiles/hs2/scraps/shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/shades.png"
+  },
+  {
+    "id": "007145",
+    "from": "assets://storyfiles/hs2/scraps/shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/shades.png"
+  },
+  {
+    "id": "007145",
+    "from": "assets://storyfiles/hs2/scraps/shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/shades.png"
+  },
+  {
+    "id": "007145",
+    "from": "assets://storyfiles/hs2/scraps/shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/shades.png"
+  },
+  {
+    "id": "007145",
+    "from": "assets://storyfiles/hs2/scraps/shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/shades.png"
+  },
+  {
+    "id": "007163",
+    "from": "https://zhhomestuck.github.io/Openbound/part1/A6I3walkthrough_ct.gif",
+    "to": "http://mspaintadventures.com/scraps2/A6I3walkthrough.gif"
+  },
+  {
+    "id": "007284",
+    "from": "assets://storyfiles/hs2/scraps/vriska_smallshout1.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/vriska_smallshout1.png"
+  },
+  {
+    "id": "007284",
+    "from": "assets://storyfiles/hs2/scraps/vriska_smallshout2.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/vriska_smallshout2.png"
+  },
+  {
+    "id": "007298",
+    "from": "https://zhhomestuck.github.io/Openbound/part3/a6i3map3.gif",
+    "to": "http://mspaintadventures.com/scraps2/a6i3map3.gif"
+  },
+  {
+    "id": "007309",
+    "from": "assets://storyfiles/hs2/scraps/gamzee_tinyhonk1.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/gamzee_tinyhonk1.png"
+  },
+  {
+    "id": "007310",
+    "from": "assets://storyfiles/hs2/scraps/gamzee_tinyhonk2.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/gamzee_tinyhonk2.png"
+  },
+  {
+    "id": "007324",
+    "from": "https://www.homestuck.com/sweet-bro-and-hella-jeff/35",
+    "to": "http://www.mspaintadventures.com/sweetbroandhellajeff/?cid=035.jpg"
+  },
+  {
+    "id": "007324",
+    "from": "assets://storyfiles/hs2/scraps/weirdhonk.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/weirdhonk.gif"
+  },
+  {
+    "id": "007405",
+    "from": "assets://storyfiles/hs2/scraps/promptlock.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/promptlock.gif"
+  },
+  {
+    "id": "007405",
+    "from": "assets://storyfiles/hs2/scraps/promptlock.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/promptlock.gif"
+  },
+  {
+    "id": "007453",
+    "from": "http://tinyurl.com/JANETHISISYOU",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/JANETHISISYOU.gif"
+  },
+  {
+    "id": "007540",
+    "from": "assets://storyfiles/hs2/scraps/shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/shades.png"
+  },
+  {
+    "id": "007572",
+    "from": "http://tinyurl.com/JAKETHISISUS",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/JAKETHISISUS.gif"
+  },
+  {
+    "id": "007623",
+    "from": "assets://storyfiles/hs2/scraps/JAKENOOOOOO.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/JAKENOOOOOO.gif"
+  },
+  {
+    "id": "007682",
+    "from": "assets://storyfiles/hs2/scraps/promptlock.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/promptlock.gif"
+  },
+  {
+    "id": "007980",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "007980",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "007981",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "007981",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "007981",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "007981",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "007981",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "007981",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "007981",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "007981",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "007981",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "007981",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "007981",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "007981",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "007981",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "007981",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "007981",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "007981",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "007981",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "007981",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "008008",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/johnblurtext1.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/johnblurtext1.gif"
+  },
+  {
+    "id": "008008",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/johnblurtext2.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/johnblurtext2.gif"
+  },
+  {
+    "id": "008012",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "008012",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "008037",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "008037",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/scorpio.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif"
+  },
+  {
+    "id": "008230",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/JOHNNOOOOOO.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/JOHNNOOOOOO.gif"
+  },
+  {
+    "id": "008232",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/JOHNNOOOOOO.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/JOHNNOOOOOO.gif"
+  },
+  {
+    "id": "008233",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/JOHNNOOOOOO.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/JOHNNOOOOOO.gif"
+  },
+  {
+    "id": "008251",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/glitchtext1.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/glitchtext1.gif"
+  },
+  {
+    "id": "008276",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008276",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008276",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008276",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008276",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008276",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008276",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008276",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008276",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008276",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008276",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008277",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008277",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008277",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008277",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008277",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008277",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008277",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008277",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008277",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008277",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008277",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008277",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008277",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008277",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008277",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008277",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008277",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008277",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008277",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008277",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arspritetxt_bitch.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arspritetxt_bitch.gif"
+  },
+  {
+    "id": "008277",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008277",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008277",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008277",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008277",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008278",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008278",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008278",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008278",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008278",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008278",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008278",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arspritetxt_fucking.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arspritetxt_fucking.gif"
+  },
+  {
+    "id": "008278",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008278",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008278",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008278",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008278",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008278",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008278",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008278",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008278",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008278",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008278",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008278",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008278",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008278",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008278",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008278",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008278",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008278",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008279",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arspritetxt_shit.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arspritetxt_shit.gif"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arspritetxt_fuckers.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arspritetxt_fuckers.gif"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008280",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008281",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/glitchtext2.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/glitchtext2.gif"
+  },
+  {
+    "id": "008281",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008296",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/glitchtext3.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/glitchtext3.gif"
+  },
+  {
+    "id": "008316",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/glitchtext4.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/glitchtext4.gif"
+  },
+  {
+    "id": "008317",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/davejade_smalltext1.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/davejade_smalltext1.gif"
+  },
+  {
+    "id": "008318",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/davejade_smalltext2.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/davejade_smalltext2.gif"
+  },
+  {
+    "id": "008453",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/vristext1.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/vristext1.gif"
+  },
+  {
+    "id": "008453",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/vristext2.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/vristext2.gif"
+  },
+  {
+    "id": "008453",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/vristext3.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/vristext3.gif"
+  },
+  {
+    "id": "008502",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008503",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008504",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008504",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008505",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "008512",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/jake_bigtext1.gif",
+    "to": "http://mspaintadventures.com/storyfiles/hs2/scraps/jake_bigtext1.gif"
+  },
+  {
+    "id": "008514",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/jake_bigtext2.gif",
+    "to": "http://mspaintadventures.com/storyfiles/hs2/scraps/jake_bigtext2.gif"
+  },
+  {
+    "id": "008515",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/jake_bigtext3.gif",
+    "to": "http://mspaintadventures.com/storyfiles/hs2/scraps/jake_bigtext3.gif"
+  },
+  {
+    "id": "008516",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/jake_bigtext4.gif",
+    "to": "http://mspaintadventures.com/storyfiles/hs2/scraps/jake_bigtext4.gif"
+  },
+  {
+    "id": "008516",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/jake_bigtext5.gif",
+    "to": "http://mspaintadventures.com/storyfiles/hs2/scraps/jake_bigtext5.gif"
+  },
+  {
+    "id": "008517",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/jake_bigtext6.gif",
+    "to": "http://mspaintadventures.com/storyfiles/hs2/scraps/jake_bigtext6.gif"
+  },
+  {
+    "id": "008519",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/jake_bigtext7.gif",
+    "to": "http://mspaintadventures.com/storyfiles/hs2/scraps/jake_bigtext7.gif"
+  },
+  {
+    "id": "008523",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/karkat_blurtext1.gif",
+    "to": "http://mspaintadventures.com/storyfiles/hs2/scraps/karkat_blurtext1.gif"
+  },
+  {
+    "id": "008523",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/karkat_blurtext2.gif",
+    "to": "http://mspaintadventures.com/storyfiles/hs2/scraps/karkat_blurtext2.gif"
+  },
+  {
+    "id": "008523",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/karkat_blurtext3.gif",
+    "to": "http://mspaintadventures.com/storyfiles/hs2/scraps/karkat_blurtext3.gif"
+  },
+  {
+    "id": "008523",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/karkat_blurtext4.gif",
+    "to": "http://mspaintadventures.com/storyfiles/hs2/scraps/karkat_blurtext4.gif"
+  },
+  {
+    "id": "008523",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/karkat_blurtext5.gif",
+    "to": "http://mspaintadventures.com/storyfiles/hs2/scraps/karkat_blurtext5.gif"
+  },
+  {
+    "id": "008527",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/jake_bigtext8.gif",
+    "to": "http://mspaintadventures.com/storyfiles/hs2/scraps/jake_bigtext8.gif"
+  },
+  {
+    "id": "008531",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/jake_bigtext9.gif",
+    "to": "http://mspaintadventures.com/storyfiles/hs2/scraps/jake_bigtext9.gif"
+  },
+  {
+    "id": "008536",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/jake_bigtext10.gif",
+    "to": "http://mspaintadventures.com/storyfiles/hs2/scraps/jake_bigtext10.gif"
+  },
+  {
+    "id": "008536",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/jake_bigtext11.gif",
+    "to": "http://mspaintadventures.com/storyfiles/hs2/scraps/jake_bigtext11.gif"
+  },
+  {
+    "id": "008536",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/jake_bigtext12.gif",
+    "to": "http://mspaintadventures.com/storyfiles/hs2/scraps/jake_bigtext12.gif"
+  },
+  {
+    "id": "008537",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/jake_bigtext13.gif",
+    "to": "http://mspaintadventures.com/storyfiles/hs2/scraps/jake_bigtext13.gif"
+  },
+  {
+    "id": "008592",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/jake_bigtext14.gif",
+    "to": "http://mspaintadventures.com/storyfiles/hs2/scraps/jake_bigtext14.gif"
+  },
+  {
+    "id": "008650",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/jake_bigtext15.gif",
+    "to": "http://mspaintadventures.com/storyfiles/hs2/scraps/jake_bigtext15.gif"
+  },
+  {
+    "id": "009358",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009358",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009358",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009358",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009358",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009358",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009358",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009358",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009358",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arspritetxt_damned.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arspritetxt_damned.gif"
+  },
+  {
+    "id": "009358",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009358",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009358",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009358",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009358",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009359",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009359",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009359",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009359",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009359",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009359",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009410",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009410",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009410",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009410",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009410",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009410",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009410",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009410",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009410",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009410",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009410",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009410",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009410",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009410",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009410",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009410",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009410",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009410",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009412",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009418",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009418",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009418",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009435",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009435",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009435",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009435",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arspritetxt_shit.gif",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arspritetxt_shit.gif"
+  },
+  {
+    "id": "009435",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009435",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009435",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009435",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009435",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009435",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009435",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009435",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009435",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009435",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009435",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009483",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009483",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009483",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009823",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009824",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009824",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009824",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009824",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009824",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009825",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009826",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  },
+  {
+    "id": "009827",
+    "from": "https://www.homestuck.com/images/storyfiles/hs2/scraps/arquius_shades.png",
+    "to": "http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png"
+  }
+]
